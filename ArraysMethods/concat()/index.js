@@ -1,0 +1,5 @@
+//  concat() 
+ let boyNames = prompt("Enter five boys names")
+let girlNames = prompt("Enter five girls names")
+let names = boyNames.concat(" "+ girlNames)
+alert(names)
